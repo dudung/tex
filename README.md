@@ -1,2 +1,2 @@
-# text
+# tex
 a tex cookbook
